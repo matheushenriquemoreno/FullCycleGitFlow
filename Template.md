@@ -1,39 +1,38 @@
-# Description
+# Descrição
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Por favor, inclua um resumo das alterações e o problema relacionado. Inclua também a motivação e o contexto relevante. Liste quaisquer dependências que são necessárias para esta alteração.
 
-Fixes # (issue)
+Corrige # (issue)
 
-## Type of change
+## Tipo de mudança
 
-Please delete options that are not relevant.
+Por favor, exclua as opções que não são relevantes.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Correção de bug (mudança que não quebra funcionalidades existentes)
+- [ ] Nova funcionalidade (mudança que não quebra funcionalidades existentes)
+- [ ] Mudança que quebra compatibilidade (correção ou funcionalidade que faz com que funcionalidades existentes não funcionem como esperado)
+- [ ] Esta mudança requer uma atualização de documentação
 
-# How Has This Been Tested?
+# Como isso foi testado?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+Por favor, descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também quaisquer detalhes relevantes para a configuração dos seus testes
 
-- [ ] Test A
-- [ ] Test B
+- [ ] Teste A
+- [ ] Teste B
 
-**Test Configuration**:
-* Firmware version:
+**Configuração de Teste**:
+* Versão do Firmware:
 * Hardware:
 * Toolchain:
 * SDK:
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-
+- [ ] Meu código segue as diretrizes de estilo deste projeto
+- [ ] Eu realizei uma auto-revisão do meu código
+- [ ] Eu comentei meu código, especialmente em áreas de difícil compreensão
+- [ ] Eu fiz as alterações correspondentes na documentação
+- [ ] Minhas mudanças não geram novos avisos
+- [ ] Eu adicionei testes que provam que a correção é eficaz ou que a funcionalidade funciona
+- [ ] Novos e existentes testes unitários passam localmente com minhas mudanças
+- [ ] Quaisquer mudanças dependentes foram mescladas e publicadas em módulos downstream
