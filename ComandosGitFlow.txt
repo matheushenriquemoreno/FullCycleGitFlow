@@ -1,0 +1,18 @@
+
+-- comando para acessar uma branch especifica
+git checkout feature/contact
+
+-- cria um branch para uma nova feature
+git flow feature start welcome
+
+-- apos finalizar o desenvolvimento, ele insere os dados na branch de develop.
+git flow feature finish welcome
+
+-- cria uma branch de release que vai ser posteriormente enviada para a principal
+git flow release start 1.0.0
+
+-- Cria uma branch para aplicar alguma correção na branch principal
+git flow hotfix start contact
+
+-- finaliza a correção, e sobe para a branch principal
+git flow hotfix finish contact
